@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ProviderServiceImp:war">
+    <output-path>$PROJECT_DIR$/ProviderServiceImp/target</output-path>
+    <root id="archive" name="hzsunpengProviderServiceImp.war">
+      <element id="artifact" artifact-name="ProviderServiceImp:war exploded" />
+    </root>
+  </artifact>
+</component>
